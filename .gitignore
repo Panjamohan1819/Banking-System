@@ -2,6 +2,9 @@
 Back-end/Banking_system/jdk21/
 Back-end/Banking_system/jdk21.zip
 
+# Sensitive config
+Back-end/Banking_system/src/main/resources/application.properties
+
 # OS generated files
 .DS_Store
 Thumbs.db
